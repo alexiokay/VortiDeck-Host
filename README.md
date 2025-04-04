@@ -1,6 +1,6 @@
 # ⚡ VortiDeck — Your Ultimate Virtual Control Deck
 
-![VortiDeck Logo](https://vortideck.com/logo.png)
+![VortiDeck Logo](https://vortideck.com/logo2.png)
 
 VortiDeck is a powerful, customizable control deck designed for streamers, creators, developers, and productivity enthusiasts. It lets you trigger actions, scripts, switch modes, control system behaviors, and more — all with intuitive button layouts and real-time feedback. The desktop app serves as the host and control center for all your connected devices.
 
