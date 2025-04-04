@@ -30,8 +30,3 @@ The VortiDeck desktop application acts as the **WebSocket host**, managing conne
 
 Download the latest release from the [Releases](https://vortideck.com/download) section.
 
-### Requirements
-
-- Node.js (for development only)
-- Rust & Cargo (for building with Tauri)
-- Windows/macOS/Linux
